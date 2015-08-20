@@ -1,3 +1,7 @@
+#euler problem 10
+
+
+
 require 'mathn'
 limit = 2000000
 sum = 0
